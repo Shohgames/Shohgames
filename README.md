@@ -54,6 +54,7 @@
 
 ###
 
-<p align="left">I am very interested in learning JavaScript and C/C++</p>
+<p align="left">I am very interested in learning JavaScript and C/C++, and I wanna commit everyday so that snake has more food to eat!</p>
 
 ###
+
