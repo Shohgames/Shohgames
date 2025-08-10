@@ -4,9 +4,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shohgames&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shohgames&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shohgames" height="150" alt="languages graph"  />
 </div>
-
+<!--&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false-->
 ###
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY0dnZmemVyMWpsc25id2RiOXRkMHNqamM0bWF1ZTV4Mnc1ZmcyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKDbDiRdvs3WU/giphy.gif"  />
@@ -57,4 +57,5 @@
 <p align="left">I am very interested in learning JavaScript and C/C++, and I wanna commit everyday so that snake has more food to eat!</p>
 
 ###
+
 
