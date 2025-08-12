@@ -4,16 +4,16 @@
 
 <div align="center">
   <p>I am new to GitHub in public, so I am hoping to make more commits from now on!</p>
-</div>
+<!---</div>
   <div allign="left">
   <p style="text-align: left;">          Currently working on this project ↓</p>
   </div>
 <div align= "center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohgames&repo=pythonsnek" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shohgames" height="150" alt="languages graph"  />
-</div>
+</div>-->
 <!--&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false-->
-###
+
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY0dnZmemVyMWpsc25id2RiOXRkMHNqamM0bWF1ZTV4Mnc1ZmcyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKDbDiRdvs3WU/giphy.gif"  />
 
@@ -60,9 +60,12 @@
 
 ###
 
-<p align="left">I am very interested in learning JavaScript and C/C++, and I wanna commit everyday so that snake has more food to eat!</p>
-
+<p align="left">I am very interested in learning JavaScript and C/C++, and I wanna commit every day so that snake has more food to eat!</p>
+<p align="left">I sometimes contribute to WordPress as a "Polyglot" as they say it. I translate the main projects and some plugins into Tajik. Because its opensource, it made me touch PHP a bit</p>
+<p align="left">I currently work at Ascensus Technologies AB, a Swedish company where we make digital solutions for business needs. Check it out at ascensusgroup.com !</p>
+<p align="left">If you would like to reach out to me, dm me at my Instagram! :)</p>
 ###
+
 
 
 
