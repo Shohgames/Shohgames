@@ -4,8 +4,11 @@
 
 <div align="center">
   <p>I am new to GitHub in public, so I am hoping to make more commits from now on!</p>
-  
-  <p style="text-align: left; width: 100%;">Currently working on this project ↓</p>
+</div>
+  <div allign="left">
+  <p style="text-align: left;">          Currently working on this project ↓</p>
+  </div>
+<div align= "center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shohgames&repo=pythonsnek" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shohgames" height="150" alt="languages graph"  />
 </div>
@@ -60,6 +63,7 @@
 <p align="left">I am very interested in learning JavaScript and C/C++, and I wanna commit everyday so that snake has more food to eat!</p>
 
 ###
+
 
 
 
