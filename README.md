@@ -61,10 +61,12 @@
 ###
 
 <p align="left">I am very interested in learning JavaScript and C/C++, and I wanna commit every day so that snake has more food to eat!</p>
+<p align="left">I usually do data analysis and science for a living, as well as developing systems and apps. I use Python for most of my job, and sometimes R</p>
 <p align="left">I sometimes contribute to WordPress as a "Polyglot" as they say it. I translate the main projects and some plugins into Tajik. Because its opensource, it made me touch PHP a bit</p>
 <p align="left">I currently work at Ascensus Technologies AB, a Swedish company where we make digital solutions for business needs. Check it out at ascensusgroup.com !</p>
 <p align="left">If you would like to reach out to me, dm me at my Instagram! :)</p>
 ###
+
 
 
 
