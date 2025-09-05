@@ -64,13 +64,14 @@
 <p align="left">I usually do data analysis and science for a living, as well as developing systems and apps. I use Python for most of my job, and sometimes R</p>
 <p align="left">I sometimes contribute to WordPress as a "Polyglot" as they say it. I translate the main projects and some plugins into Tajik. Because its opensource, it made me touch PHP a bit</p>
 <p align="left">I currently work at Ascensus Technologies AB, a Swedish company where we make digital solutions for business needs. Check it out at ascensusgroup.com !</p>
-<p align="left">If you would like to reach out to me, dm me at my Instagram, or at my work email- shahzod(at)ascensusgroup.com :)</p>
+<p align="left">If you would like to reach out to me, dm me at my Instagram, or at my work email- shahzod(at)ascensusgroup.com :) . Have a great one!</p>
 
 <div align="center"><img width="400" height="425" alt="800px-Coat_of_arms_of_Tajikistan_1992-1993 svg" src="https://github.com/user-attachments/assets/72abbf09-76b5-4562-a297-94df19188e96" />
 </div>
 
 ### <div align="center">GLORY TO TAJIKISTAN! GLORY TO KHOROSAN!</div>
 ### <div align="center">Тоҷикистон Ба Пеш! Хуросон Ба Пеш!</div>
+
 
 
 
