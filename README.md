@@ -71,6 +71,8 @@
 
 ### <div align="center">GLORY TO TAJIKISTAN! GLORY TO KHOROSAN!</div>
 ### <div align="center">Тоҷикистон Ба Пеш! Хуросон Ба Пеш!</div>
+# From the river to the sea - FREE PALESTINE! 
+<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/bbe97893-3c82-401e-a9d8-fb1f5965412d" />
 
 
 
